@@ -3,7 +3,7 @@ Low-degree Polynomial time heuristics for LPPF: Codebase and other documents
 
 Daniel Feng
 
-Here's some resources of code and data!
+Here's some code resources and data!
 
 Python Code for solving any specific input with GreedySum and visualizing found solution:
 https://colab.research.google.com/drive/1dGl0_EIyg7qBF-w9FgSt4QZgF5PvTcFy?usp=sharing
@@ -12,7 +12,7 @@ This will allow you to better understand GreedySum; the code given here allows f
 Options are given and commented in the file! Other comments denote specific functions and work.
 
 
-Python Code for creating a scatterplot on data, comparing a heuristic with the optimal (used to develop figures):
+Python Code for creating a scatterplot on data, comparing a heuristic with the optimal solution (used to develop figures):
 https://colab.research.google.com/drive/1hyrTVyYfXgAmisPtq32YOiFMIz9u8tBc?usp=sharing
 
 This will allow you to analyze the heuristics built here on various datasets.
@@ -24,7 +24,7 @@ Other comments denote specific functions and work.
 Python Code for generating a storing a large dataset of matrices and optimal solutions for further use:
 https://colab.research.google.com/drive/1qJK2qvc5e58M5eN1PxGwL0nSbN0gN-oC?usp=sharing
 
-This will allow you to create deterministic datasets, solve them to optimality, and save your answers to prevent doing the long NP-Hard computation again. You'll need to download the file from the online directory once generated, and upload the file to the notebook used to develop scatterplots.
+This will allow you to create deterministic datasets, solve them to optimality, and save your answers to prevent doing the time-consuming NP-Hard computation again. You'll need to download the file from the online directory once generated, and upload the file to the notebook used to develop scatterplots if you want to use it.
 Options are given and commented in the file, such as denoting the progress of the file generation! Other comments denote specific functions and work.
 
 

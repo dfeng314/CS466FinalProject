@@ -24,7 +24,7 @@ Other comments denote specific functions and work.
 Python Code for generating a storing a large dataset of matrices and optimal solutions for further use:
 https://colab.research.google.com/drive/1qJK2qvc5e58M5eN1PxGwL0nSbN0gN-oC?usp=sharing
 
-This will allow you to create deterministic datasets, solve them to optimality, and save your answers to prevent doing the long NP-Hard computation again.
+This will allow you to create deterministic datasets, solve them to optimality, and save your answers to prevent doing the long NP-Hard computation again. You'll need to download the file from the online directory once generated, and upload the file to the notebook used to develop scatterplots.
 Options are given and commented in the file, such as denoting the progress of the file generation! Other comments denote specific functions and work.
 
 
